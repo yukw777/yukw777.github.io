@@ -21,7 +21,7 @@ repository: "yukw777/yukw777.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "profile.jpg"
   name: "Keunwoo Peter Yu"
   pronouns: # example: "she/her"
   bio: "Ph.D. Candidate at the University of Michigan, researching multimodal models and embodied AI"
