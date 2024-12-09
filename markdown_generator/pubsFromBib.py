@@ -34,6 +34,14 @@ publist = {
                         "permalink":"/publication/"}
 
     },
+    "preprint": {
+        "file" : "preprint.bib",
+        "venuekey": "archivePrefix",
+        "venue-pretext": "",
+        "collection" : {"name":"publications",
+                        "permalink":"/publication/"}
+
+    },
 }
 
 html_escape_table = {
